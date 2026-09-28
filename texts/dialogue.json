@@ -1,0 +1,266 @@
+{
+  "OPENING_DIALOGUE": [
+    {
+      "speaker": "你",
+      "inner": false,
+      "expression": "neutral",
+      "text": "我去，今天终于熬到下班了。"
+    },
+    {
+      "speaker": "你",
+      "inner": false,
+      "expression": "neutral",
+      "text": "还是赶快溜之大……."
+    },
+    {
+      "speaker": "老板",
+      "inner": false,
+      "expression": "neutral",
+      "text": "等会儿！"
+    },
+    {
+      "speaker": "老板",
+      "inner": false,
+      "expression": "neutral",
+      "text": "一会咱们开个会去！"
+    },
+    {
+      "speaker": "老板",
+      "inner": false,
+      "expression": "neutral",
+      "text": "线上的进会议哈！"
+    },
+    {
+      "speaker": "你",
+      "inner": true,
+      "expression": "angry",
+      "text": "WTF"
+    },
+    {
+      "speaker": "你",
+      "inner": true,
+      "expression": "angry",
+      "text": "这个南极〇畜又在干什么！？"
+    },
+    {
+      "speaker": "你",
+      "inner": true,
+      "expression": "angry",
+      "text": "那只好带薪破坏工作了。"
+    }
+  ],
+  "AFTER_FIRST_DIALOGUE": [
+    {
+      "speaker": "你",
+      "inner": false,
+      "expression": "neutral",
+      "text": "ok吧也没有很晚这会挤个地铁回去也还行"
+    },
+    {
+      "speaker": "老板",
+      "inner": false,
+      "expression": "neutral",
+      "text": "今天新来的同学可以先走了哈等系统今天先激活一下，"
+    },
+    {
+      "speaker": "老板",
+      "inner": false,
+      "expression": "neutral",
+      "text": "其他人等一下，"
+    },
+    {
+      "speaker": "你",
+      "inner": false,
+      "expression": "uneasy",
+      "text": "？"
+    }
+  ],
+  "AFTER_SECOND_DIALOGUE": [
+    {
+      "speaker": "你",
+      "inner": true,
+      "expression": "uneasy",
+      "text": "哇靠，这下得结束了吧？"
+    },
+    {
+      "speaker": "你",
+      "inner": true,
+      "expression": "uneasy",
+      "text": "这楼又没班车，"
+    },
+    {
+      "speaker": "老板",
+      "inner": false,
+      "expression": "neutral",
+      "text": "嗷嗷，现在实习的同学可以走了哈，"
+    },
+    {
+      "speaker": "你",
+      "inner": false,
+      "expression": "uneasy_alt",
+      "text": "（哇靠赶快）"
+    },
+    {
+      "speaker": "老板",
+      "inner": false,
+      "expression": "neutral",
+      "text": "本次不提供任何交通补贴哈，"
+    },
+    {
+      "speaker": "你",
+      "inner": false,
+      "expression": "uneasy_alt",
+      "text": "，？"
+    },
+    {
+      "speaker": "老板",
+      "inner": false,
+      "expression": "neutral",
+      "text": "大家可以自己坐渡轮或者从南极游回去，没有泳衣的去33楼领一下。"
+    },
+    {
+      "speaker": "你",
+      "inner": false,
+      "expression": "distressed",
+      "text": "………………….."
+    },
+    {
+      "speaker": "你",
+      "inner": false,
+      "expression": "distressed",
+      "text": "哎一古"
+    }
+  ],
+  "AFTER_FOURTH_DIALOGUE": [
+    {
+      "speaker": "你",
+      "inner": false,
+      "expression": "angry",
+      "text": "啥意思啊为啥就一直只有我一个人！？！？"
+    },
+    {
+      "speaker": "员工B",
+      "inner": false,
+      "expression": "neutral",
+      "text": "哎，"
+    },
+    {
+      "speaker": "员工B",
+      "inner": false,
+      "expression": "neutral",
+      "text": "原来还有人啊！太好了！"
+    },
+    {
+      "speaker": "你",
+      "inner": false,
+      "expression": "distressed",
+      "text": "特么的所以意思是大家都没走是吗"
+    },
+    {
+      "speaker": "员工B",
+      "inner": false,
+      "expression": "neutral",
+      "text": "嘻嘻"
+    },
+    {
+      "speaker": "员工B",
+      "inner": false,
+      "expression": "neutral",
+      "text": "耍起"
+    }
+  ],
+  "AFTER_FIFTH_DIALOGUE": [
+    {
+      "speaker": "你",
+      "inner": false,
+      "expression": "angry",
+      "text": "咋还没完啊！！"
+    },
+    {
+      "speaker": "你",
+      "inner": false,
+      "expression": "angry",
+      "text": "我直接把第二天的卡打了算了。"
+    },
+    {
+      "speaker": "员工B",
+      "inner": false,
+      "expression": "neutral",
+      "text": "其实你可以"
+    },
+    {
+      "speaker": "员工B",
+      "inner": false,
+      "expression": "neutral",
+      "text": "直接把企〇微〇的通知直接关掉"
+    },
+    {
+      "speaker": "你",
+      "inner": false,
+      "expression": "uneasy",
+      "text": "。。。"
+    },
+    {
+      "speaker": "你",
+      "inner": false,
+      "expression": "neutral",
+      "text": "你说的对啊"
+    },
+    {
+      "speaker": "你",
+      "inner": false,
+      "expression": "uneasy",
+      "text": "那你咋不走？"
+    },
+    {
+      "speaker": "员工B",
+      "inner": false,
+      "expression": "neutral",
+      "text": "蹭公司网下电影快"
+    },
+    {
+      "speaker": "你",
+      "inner": false,
+      "expression": "distressed",
+      "text": "………………….."
+    }
+  ],
+  "ENDLESS_DIALOGUE": [
+    {
+      "speaker": "老板",
+      "inner": false,
+      "expression": "neutral",
+      "text": "我感觉有必要告诉你"
+    },
+    {
+      "speaker": "老板",
+      "inner": false,
+      "expression": "neutral",
+      "text": "其实我不是你们的牢板"
+    },
+    {
+      "speaker": "老板",
+      "inner": false,
+      "expression": "neutral",
+      "text": "我是异色伊丽莎白"
+    },
+    {
+      "speaker": "老板",
+      "inner": false,
+      "expression": "neutral",
+      "text": "可以不要打我了吗"
+    },
+    {
+      "speaker": "你",
+      "inner": false,
+      "expression": "uneasy",
+      "text": "，？"
+    },
+    {
+      "speaker": "你",
+      "inner": false,
+      "expression": "angry",
+      "text": "哈哈突然我起了一些沙溢你还是准备受死吧"
+    }
+  ]
+}

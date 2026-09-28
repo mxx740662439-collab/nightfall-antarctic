@@ -1,0 +1,12 @@
+config_version=5
+[application]
+config/name="夜幕——无尽弹幕·南极分部"
+run/main_scene="res://scenes/main.tscn"
+boot_splash/show_image=false
+[display]
+window/size/viewport_width=1440
+window/size/viewport_height=960
+window/stretch/mode="canvas_items"
+[rendering]
+renderer/rendering_method="gl_compatibility"
+environment/defaults/default_clear_color=Color(0.86,0.94,0.97,1)
